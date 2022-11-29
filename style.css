@@ -1,0 +1,70 @@
+body {
+    background: #ffeaff;
+}
+
+.git {
+background-color: #545454;
+padding: 30px;
+}
+
+div {
+   text-align: center; 
+}
+
+.main-home1 {
+   background: #eaeaea;
+   padding: 10px;
+}
+
+img {    
+    margin: 10px;
+    width:  600px;
+    height: 300px;
+    border: solid 1px #b3b3b3;
+    border-radius: 15px;
+}
+
+h1 {
+   color: #010101;
+   border-radius: 9px;
+   }
+   
+   html {
+    font-family: BhuTuka Expanded One, sans-serif, cursive;
+  }
+  
+.git {
+    justify-content: space-around;
+    display: flex;
+}
+
+a { 
+font-size: 29px;
+color: #000000;
+text-decoration: none;
+width: 30.00%; 
+}
+
+p {
+   text-align:left;
+   font-family: Times New Roman;
+   }
+
+.link {
+    background: #8c8c8c;
+    padding: 10px;
+    color: #b6b6b6; 
+}
+
+h3 {
+    text-align: left;
+}
+
+h5 {
+    text-align: left;
+}
+
+.main-home {
+    background: #d0d0d0;
+    padding: 10px;
+}
