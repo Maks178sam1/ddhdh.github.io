@@ -1,0 +1,17 @@
+p, a {
+    color:#000000;
+    border-radius: 20px;
+    margin: 10px;
+    text-align:center;
+    display: flex;
+justify-content: space-around;
+background: #e1e1e1;
+    } 
+
+h3 { 
+    text-align: center;
+}
+
+body {
+    background: #adadad;
+}
