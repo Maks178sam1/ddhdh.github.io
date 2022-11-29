@@ -1,9 +1,9 @@
 body {
-    background: #adadad;
+    background: #ffeaff;
 }
 
 .git {
-background-color:#00c0ff;
+background-color: #545454;
 padding: 10px;
 }
 
@@ -11,16 +11,16 @@ div {
    text-align: center; 
 }
 
-.main-home {
-   background: #ffffff;
+.main-home1 {
+   background: #eaeaea;
    padding: 10px;
 }
 
 img {    
     margin: 10px;
     width:  300px;
-    border: solid 3px #1d82ad;
-    border-radius:30px;
+    border: solid 1px #b3b3b3;
+    border-radius: 15px;
 }
 
 h1 {
@@ -33,12 +33,13 @@ h1 {
   }
   
 .git {
+    justify-content: space-around;
     display: flex;
-justify-content: space-around;
 }
 
 a { 
 font-size: 18px;
+color: #000000;
 }
 
 p {
@@ -46,8 +47,9 @@ p {
    }
 
 .link {
-    background: #15b6ff;
-    padding: 30px; 
+    background: #8c8c8c;
+    padding: 10px;
+    color: #b6b6b6; 
 }
 
 h3 {
@@ -56,4 +58,9 @@ h3 {
 
 h5 {
     text-align: left;
+}
+
+.main-home {
+    background: #d0d0d0;
+    padding: 10px;
 }
